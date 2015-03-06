@@ -1,0 +1,13 @@
+body{
+	overflow:hidden;
+}
+#wrapper{
+	width:90%;
+
+}
+#myCanvas{
+	display: block;
+	margin:25px auto;
+	background: url("../images/tatooine.jpg");
+	background-size: 100% 100%;
+}
